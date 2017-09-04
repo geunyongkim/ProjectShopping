@@ -27,7 +27,7 @@
 </script>
 <body>
 	<h2>컨트롤러 호출 연습 페이지</h2>
-	<a href="<%=path%>/sample/doA">doA</a> : model <br>
+	<a href="<%=path%>/sample/doA">doAdddd</a> : model <br>
 	<a href="<%=path%>/sample/doB">doB</a> : 단순호출<br>
 	<a href="<%=path%>/sample/doC">doC</a> : modelAndView <br>
 	<a href="<%=path%>/sample/doD">doD</a> : redirect <br>
